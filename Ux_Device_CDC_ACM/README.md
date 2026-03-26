@@ -1,3 +1,9 @@
+Project was built off USBX CDC example, readme below 
+
+The code I wrote is mostly under core/src/app_threadx.c
+
+
+
 ## <b>Ux_Device_CDC_ACM Application Description </b>
 
 This application provides an example of Azure RTOS USBX stack usage on NUCLEO-C071RB board, it shows how to develop USB Device communication Class "CDC_ACM" based application.
