@@ -1,0 +1,4 @@
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/USBX/App/app_usbx_device.c:71:6:MX_USBX_Device_Init	12
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/USBX/App/app_usbx_device.c:231:13:app_ux_device_thread_entry	1
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/USBX/App/app_usbx_device.c:249:6:USBX_APP_Device_Init	1
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/USBX/App/app_usbx_device.c:284:6:USBX_APP_UART_Init	1

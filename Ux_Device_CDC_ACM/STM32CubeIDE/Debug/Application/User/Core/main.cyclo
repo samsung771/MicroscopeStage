@@ -1,0 +1,9 @@
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/main.c:75:5:main	1
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/main.c:126:6:SystemClock_Config	3
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/main.c:183:13:MX_I2C2_Init	4
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/main.c:231:6:MX_USART2_UART_Init	5
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/main.c:279:6:MX_USB_PCD_Init	2
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/main.c:313:13:MX_DMA_Init	1
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/main.c:331:13:MX_GPIO_Init	1
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/main.c:422:6:HAL_TIM_PeriodElapsedCallback	2
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/main.c:440:6:Error_Handler	1

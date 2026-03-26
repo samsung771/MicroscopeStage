@@ -1,0 +1,5 @@
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/app_threadx.c:118:6:stepMotor	3
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/app_threadx.c:141:6:App_ThreadX_Init	1
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/app_threadx.c:161:6:MX_ThreadX_Init	1
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/app_threadx.c:175:6:Motor_Control_thread_entry	13
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/app_threadx.c:280:6:Sensor_Polling_thread_entry	5

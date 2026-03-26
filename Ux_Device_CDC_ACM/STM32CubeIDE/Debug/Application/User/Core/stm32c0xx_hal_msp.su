@@ -1,0 +1,7 @@
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/stm32c0xx_hal_msp.c:64:6:HAL_MspInit	16	static
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/stm32c0xx_hal_msp.c:87:6:HAL_I2C_MspInit	56	static
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/stm32c0xx_hal_msp.c:124:6:HAL_I2C_MspDeInit	16	static
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/stm32c0xx_hal_msp.c:155:6:HAL_UART_MspInit	56	static
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/stm32c0xx_hal_msp.c:213:6:HAL_UART_MspDeInit	16	static
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/stm32c0xx_hal_msp.c:247:6:HAL_PCD_MspInit	64	static
+C:/Users/samdl/STM32CubeIDE/workspace_1.19.0/Ux_Device_CDC_ACM/Core/Src/stm32c0xx_hal_msp.c:284:6:HAL_PCD_MspDeInit	16	static
